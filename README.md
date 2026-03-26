@@ -9,8 +9,6 @@ ROS2 Jazzy kullanarak yaptığım uydu telemetri simülasyonu.
 
 ## Çalıştırmak İçin
 
-cd ~/ros2_ws1
-
 colcon build
 
 source install/setup.bash
