@@ -1,6 +1,6 @@
-# ROS2 Uydu Telemetri Projesi
+# ROS2 
 
-ROS2 Jazzy kullanarak yaptığım uydu telemetri simülasyonu.
+ROS2 Jazzy kullanarak uydu telemetri simülasyonu.
 
 ## Klasörler
 - uydu_telemetri_msgs: özel mesaj tipi
