@@ -1,0 +1,2 @@
+string uydu_adi
+int32 sinyal_gucu
